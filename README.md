@@ -3,7 +3,7 @@
 CRUD API คือ API ที่เราสามารถสร้าง,อ่าน,แก้ไข,และลบข้อมูลได้
 
 ## การเริ่มต้น
-1. ใช้คำสั่ง ``` git clone https://github.com/BorntoDev/CRUD-Golang.git ```
+1. ใช้คำสั่ง ``` git clone https://github.com/MakeNattapong/crudapi-go ```
 
 2. ติดตั้ง Golang จาก [https://golang.org/dl/]
 
